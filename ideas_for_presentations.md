@@ -23,3 +23,11 @@ Talks we would like to hear
 - DevOps tools
 - Microservices
 - feature toggle -> how
+- continuous integration and git flow (work on branches)
+- how to deal with a "hot potato"? (big monolith application with a lot of legacy code)
+- how do you host your devops tools (CI, CD, vcs, monitoring etc.)?
+- containerize everything (or not?)
+- systemd - love it or hate it?
+- devops solutions - general vs specific per team
+- do you need to be programmer to be a devops?
+- opensource inside and outside company - why and why not?
