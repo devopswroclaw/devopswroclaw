@@ -1,5 +1,5 @@
-Reading on running a meeup
-==========================
+Reading on running a meetup
+===========================
 A selection of materials on how to run a DevOps meetup.
 
 Blog Posts
