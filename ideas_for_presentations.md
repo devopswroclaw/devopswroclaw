@@ -1,11 +1,12 @@
 Proposed Talks
 ==============
 - Ansible in Networking – OVH
+- From Monolith to uServices (working title) – DA@Gigaset
+- Measure everything, for Dev and Ops – TT@Gigaset
 - Microservices require DevOps – Gigaset
 - Chef for Windows automation
 - Azure cloud
 - DevOps tools in a cloud – own tools presentation
-- Measure everything, for Dev and Ops – Gigaset
 - The role of proper metrics
 
 Talks we would like to hear
