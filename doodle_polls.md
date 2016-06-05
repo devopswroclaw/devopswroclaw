@@ -1,4 +1,4 @@
-Doodle vote
+Doodle polls
 ===========================
 A list of polls related to a DevOps meetup.
 
