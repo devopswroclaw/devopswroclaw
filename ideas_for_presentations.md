@@ -3,11 +3,11 @@ Proposed Talks
 ####Confirmed####
 Talks that can be prepared for the next meetup:
 - From Monolith to uServices (working title) – D.A.@Gigaset
-- Chef for Windows automation – P.R.
+- Chef for Windows automation – P.R.@IBM
 - DevOps tools deployed in cloud – P.K.
 
 ####For future meetups####
-- Ansible in Networking – OVH
+- Ansible for SDN deployment: benefits and good practices - J.S.@OVH (under construction)
 - Measure everything, for Dev and Ops – TT@Gigaset
 - Microservices require DevOps – TT@Gigaset
 - Azure cloud
