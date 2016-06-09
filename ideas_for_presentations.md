@@ -8,7 +8,7 @@ Proposed Talks
 - Azure cloud
 - DevOps tools in a cloud – own tools presentation
 - The role of proper metrics
-- Version control strategies and their counsequences
+- Version control strategies and their consequences
 
 Talks we would like to hear
 ===========================
