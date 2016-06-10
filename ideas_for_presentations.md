@@ -14,6 +14,7 @@ Talks that can be prepared for the next meetup:
 - DevOps tools in a cloud – own tools presentation
 - The role of proper metrics
 - Version control strategies and their consequences – AK@Gigaset
+- End2end testing microservices approach – JK@Gigaset
 
 Talks we would like to hear
 ===========================
