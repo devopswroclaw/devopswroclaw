@@ -5,6 +5,7 @@ Talks that can be prepared for the next meetup:
 - From Monolith to uServices (working title) – D.A.@Gigaset
 - Chef for Windows automation – P.R.@IBM
 - DevOps tools deployed in cloud – P.K.
+- Ansible for SDN deployments: benefits and best practives – S.Ś.@OVH
 
 ####For future meetups####
 - Ansible for SDN deployment: benefits and good practices - J.S.@OVH (under construction)
