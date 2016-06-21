@@ -15,12 +15,14 @@ Agenda and slides:
 - 18:40 – Group updates/news/announcements
 - 19:00 – Piotr Rogala - Chef for Windows automation
 - 19:45 - Piotr Kurpik - CI tools on cloud
+
 > These days there's a lot of tools which help developers work efficiently. Let's say Jenkins.
 > Thanks to Jenkins, a lots of boring manual tasks can be done automatically.
 > But instead of that, people spend time installing, configuring and maintaining it. Can we also automate that?
 > Fortunately, there is DevOps team and their super power - Laziness.
 > You can hear how proper sets of open source tools can be used for installing and configuring Jenkins on AWS.
 > And that's only an example - you can do much more.
+
 - 20:30 – Intro to Open Spaces
 - 20:40 – Intermission
 - 21:00 – Open Space
