@@ -14,14 +14,12 @@ Agenda and slides:
 - 18:30 – Grab a beer
 - 18:40 – Group updates/news/announcements
 - 19:00 – Piotr Rogala - Chef for Windows automation
+
+> When we are talking about DevOps we think about configuration management, containers, automation etc. Mostly, we would like to use it on... Linux. But we all know that there is other OS which also participate in an amazing world of this culture - Microsoft Windows. During this lecture you will see what kind of solutions for MS Windows gives you a CHEF. Of course everything will base on examples with Azure cloud.
+
 - 19:45 - Piotr Kurpik - CI tools on cloud
 
-> These days there's a lot of tools which help developers work efficiently. Let's say Jenkins.
-> Thanks to Jenkins, a lots of boring manual tasks can be done automatically.
-> But instead of that, people spend time installing, configuring and maintaining it. Can we also automate that?
-> Fortunately, there is DevOps team and their super power - Laziness.
-> You can hear how proper sets of open source tools can be used for installing and configuring Jenkins on AWS.
-> And that's only an example - you can do much more.
+> These days there's a lot of tools which help developers work efficiently. Let's say Jenkins. Thanks to Jenkins, a lots of boring manual tasks can be done automatically. But instead of that, people spend time installing, configuring and maintaining it. Can we also automate that? Fortunately, there is DevOps team and their super power - Laziness. You can hear how proper sets of open source tools can be used for installing and configuring Jenkins on AWS. That's only an example - you can do much more.
 
 - 20:30 – Intro to Open Spaces
 - 20:40 – Intermission
@@ -35,5 +33,3 @@ Agenda and slides:
 - 19:00 - [DevOps presentation](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-05-31/Intro_to_DevOps.pdf)
 - 19:30 - [Intro to Open Spaces](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-05-31/Open_Spaces.pdf)
 - 19:45 - Open Spaces
-
-
