@@ -6,6 +6,15 @@ DevOps Wroclaw
 - [Some reading on running a meetup](/running_a_meetup.md/)
 - [Doodle polls](/doodle_polls.md/)
 
+DevOps Materials
+----------------
+
+- [Books](/devops_materials/books.md)
+- [Conferences](/devops_materials/conferences.md)
+- [News](/devops_materials/news.md)
+- [Podcasts](/devops_materials/podcasts.md)
+- [Presentations](/devops_materials/presentations.md)
+
 Meetups
 -------
 #### [DevOps Wroclaw 2016-06-28](http://www.meetup.com/Wroclaw-DevOps-Meetup/events/231907345/) ####
