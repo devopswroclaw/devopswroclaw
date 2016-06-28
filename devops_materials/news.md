@@ -22,6 +22,6 @@ DevOps News
   > I just got back from the very first ever @serverlessconf in NYC.  I have a soft spot for well-curated single-track conferences, and the organizers did an incredible job.  Major kudos to @iamstan and team for pulling together such a high-caliber mix of attendees as well as presenters.
 
 - 2016-05-31 – Charity Majors [@mipsytipsy](https://twitter.com/mipsytipsy)  
-  [Operational Best Practices #serverless](https://charity.wtf/2016/05/31/wtf-is-operations-serverless/)
+  [Operational Best Practices #serverless](https://charity.wtf/2016/05/31/operational-best-practices-serverless/)
 
   > This post is part two of my recap of last week’s terrific Serverless conference.  If you feel like getting bitchy with me about what serverless means or #NoOps or whatever, please refer back to the prequel post, where I talked about operations engineering in the modern world.
