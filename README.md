@@ -26,7 +26,7 @@ Agenda and slides:
 
 > When we are talking about DevOps we think about configuration management, containers, automation etc. Mostly, we would like to use it on... Linux. But we all know that there is other OS which also participate in an amazing world of this culture - Microsoft Windows. During this lecture you will see what kind of solutions for MS Windows gives you a CHEF. Of course everything will base on examples with Azure cloud.
 
-- [19:45 - Piotr Kurpik - CI tools on cloud](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-06-28/Piotr_Kurpik-CI_tools_in_cloud.pdf)
+- 19:45 - [Piotr Kurpik - CI tools on cloud](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-06-28/Piotr_Kurpik-CI_tools_in_cloud.pdf)
 
 > These days there's a lot of tools which help developers work efficiently. Let's say Jenkins. Thanks to Jenkins, a lots of boring manual tasks can be done automatically. But instead of that, people spend time installing, configuring and maintaining it. Can we also automate that? Fortunately, there is DevOps team and their super power - Laziness. You can hear how proper sets of open source tools can be used for installing and configuring Jenkins on AWS. That's only an example - you can do much more.
 
