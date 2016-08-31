@@ -21,12 +21,12 @@ Meetups
 
 Agenda and slides:
 - 18:00 - Grab a beer
-- 18:10 - Group updates/news/announcements
-- 18:30 - Damian Adamowicz - From Monolith to uServices
+- 18:10 - [Group updates/news/announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-08-30/2016-08_Group_updates_news_announcements.pdf)
+- 18:30 - [Damian Adamowicz - From Monolith to uServices](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-08-30/Damian_Adamowicz_-_Essence_of_the_Cloud.pdf)
 
 > If you see that your application is one big Monolith with lot of problems and your team is getting slow and slow in deployment and bug fixes maybe it is time to move to Microservices. Damian worked on such problem in Gigaset Communication and it seems that he and his cooworkers handle it. Now they have very good service ([Gigaset Elements](http://www.gigaset-elements.com/en/)) which is easy to deploy, manage and stable than before. Please check his presentation about it.
 
-- 19:10 - [Borys Łącki - DevOps Security](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-08-30/20160830-devops_security.pdf)
+- 19:10 - [Borys Łącki - DevOps Security](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-08-30/Borys_Lacki_-_DevOps_Security.pdf)
 
 > Do you want that your application, servers, workstations and company to be secure more than yesterday? Check Borys presentation about it and feel free to contact him directly to get more information about it!
 
