@@ -2,10 +2,7 @@ Proposed Talks
 ==============
 ####Confirmed####
 Talks that can be prepared for the next meetup:
-- From Monolith to uServices (working title) – D.A.@Gigaset
-- Ansible for SDN deployments: benefits and best practives – S.Ś.@OVH
 - Introduction to Mesos and Marathon – M.Ł.@Opera
-- DevOps security – B.Ł.
 
 ####For future meetups####
 - Ansible for SDN deployment: benefits and good practices - J.S.@OVH (under construction)
@@ -16,10 +13,13 @@ Talks that can be prepared for the next meetup:
 - The role of proper metrics
 - Version control strategies and their consequences – AK@Gigaset
 - End2end testing microservices approach – JK@Gigaset
+- Ansible for SDN deployments: benefits and best practives – S.Ś.@OVH
 
 ####Already presented####
 - Chef for Windows automation – P.R.@IBM
 - DevOps tools deployed in cloud – P.K.
+- From Monolith to uServices (working title) – D.A.@Gigaset
+- DevOps security – B.Ł.
 
 Talks we would like to hear
 ===========================
