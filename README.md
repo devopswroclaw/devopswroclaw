@@ -17,6 +17,30 @@ DevOps Materials
 
 Meetups
 -------
+#### [DevOps Wroclaw 2016-10-25](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/234636326/) ####
+
+Agenda and slides:
+- 18:00 - Grab a beer
+- 18:10 - [Group updates/news/announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-10-25/2016-10_Group_updates_news_announcements.pdf)
+- 18:30 - [Michał Łowicki - Introduction to Mesos and Marathon](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2016-10-25/Michal_Lowicki_-_Intro_to_Mesos_and_Marathon.pdf)
+
+> Mesos / Marathon it's a solution which helps us in cluster of servers management.
+Additionally it helps in running services like database or web apps in Docker's containers.
+
+> You will learn how it was done in [Opera Wroclaw](http://www.opera.com/pl/about).
+
+- 19:10 - Łukasz Hryniuk - Linux, Docker and GitLabCI CI
+
+> ...about how one of the [RST ‘s](http://rst.com.pl/) project team improved the process of building and delivery their software.
+
+> ...about how they work to have better code quality.
+
+> ...about how they manage the code, handle the responsibility and borders
+
+- 20:30 – Intro to Open Spaces
+- 20:40 – Intermission
+- 21:00 – Open Space
+
 #### [DevOps Wroclaw 2016-08-30](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/233141116/) ####
 
 Agenda and slides:
