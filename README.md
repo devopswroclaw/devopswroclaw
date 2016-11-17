@@ -29,7 +29,7 @@ Additionally it helps in running services like database or web apps in Docker's 
 
 > You will learn how it was done in [Opera Wroclaw](http://www.opera.com/pl/about).
 
-- 19:10 - Łukasz Hryniuk - Linux, Docker and GitLabCI CI
+- 19:10 - [Łukasz Hryniuk - Linux, Docker and GitLabCI CI](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-10-25/Lukasz_Hryniuk_-_Linux_Docker_and_GitLabCI.pdf)
 
 > ...about how one of the [RST ‘s](http://rst.com.pl/) project team improved the process of building and delivery their software.
 
