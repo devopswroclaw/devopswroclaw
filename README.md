@@ -22,7 +22,7 @@ Meetups
 Agenda and slides:
 - 18:00 - Grab a beer
 - 18:10 - [Group updates/news/announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-11-29/2016-11_Group_updates_news_announcements.pdf)
-- 18:30 - Maciej Lasyk – systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration
+- 18:30 - [Maciej Lasyk – systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2016-11-29/systemd_primer.pdf)
 
 > The short version of the workshop about systemd. The main goal of this workshop is to introduce various aspects of systemd to all of you who haven't used it extensively yet. [systemd-workshop](https://github.com/docent-net/systemd-workshop)
 
