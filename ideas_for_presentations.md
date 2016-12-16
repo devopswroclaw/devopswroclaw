@@ -2,7 +2,7 @@ Proposed Talks
 ==============
 ####Confirmed####
 Talks that can be prepared for the next meetup:
-- Introduction to Mesos and Marathon – M.Ł.@Opera
+- Advanced Mesos and Marathon: monitoring, load balancing, live demo – M.Ł.@Opera
 
 ####For future meetups####
 - Ansible for SDN deployment: benefits and good practices - J.S.@OVH (under construction)
@@ -17,9 +17,12 @@ Talks that can be prepared for the next meetup:
 
 ####Already presented####
 - Chef for Windows automation – P.R.@IBM
-- DevOps tools deployed in cloud – P.K.
+- DevOps tools deployed in cloud – P.K.@Ocado
 - From Monolith to uServices (working title) – D.A.@Gigaset
 - DevOps security – B.Ł.
+- Introduction to Mesos and Marathon – M.Ł.@Opera
+- Linux, Docker and GitLabCI CI – Ł.H.@RST
+- systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration – M.L.@Ocado
 
 Talks we would like to hear
 ===========================
