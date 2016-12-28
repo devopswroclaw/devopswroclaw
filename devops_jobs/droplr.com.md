@@ -37,8 +37,7 @@ W tym momencie nie musisz być jeszcze absolutnie najlepszy i super doświadczon
 - Otwartość na innowacje i nowe technologie
 - Znajomość [GitHub workflows](https://guides.github.com/introduction/flow/) i [JIRA](https://www.atlassian.com/software/jira) / [Pivotal Tracker](https://www.pivotaltracker.com/)
 - Pozytywne podejście i nastawienie do ludzi
-- Chęć poszerzania wiedzy i rozwijania swoich umiejętności
-i co bardzo ważne - **chęć bycia najlepszym w tym co robisz**
+- Chęć poszerzania wiedzy i rozwijania swoich umiejętności i co bardzo ważne - **chęć bycia najlepszym w tym co robisz**
 
 #### Dodatkowym bonusem będzie:
 - Doświadczenie z [CloudWatch](https://aws.amazon.com/cloudwatch/), [Airbrake](https://airbrake.io/), [NewRelic](https://newrelic.com/), [Route53](https://aws.amazon.com/route53/), [AWS SES](https://aws.amazon.com/ses/)
