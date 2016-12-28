@@ -11,6 +11,7 @@ DevOps Materials
 
 - [Books](/devops_materials/books.md)
 - [Conferences](/devops_materials/conferences.md)
+- [DevOps Jobs](/devops_jobs/README.md)
 - [News](/devops_materials/news.md)
 - [Podcasts](/devops_materials/podcasts.md)
 - [Presentations](/devops_materials/presentations.md)
