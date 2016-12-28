@@ -59,7 +59,6 @@ W tym momencie nie musisz być jeszcze absolutnie najlepszy i super doświadczon
 - Dobrze wyposażona kuchnia, a przede wszystkim lodówka (owoce, napoje…)
 - Możliwe elastyczne godziny pracy (najlepiej pełny etat i praca w naszej siedzibie, ale nie jest to warunek konieczny)
 
-
 #### Napisz do nas:
 Cenniejsze niż CV będzie dla nas choć jedno zdanie opisujące Twoje doświadczenie. Pisz proszę na adres [radek@droplr.com](radek@droplr.com) (śmiało pisz po polsku) - koniecznie dodaj do tytułu maila: **“DevOps Engineer w MT-DO1”**
 
