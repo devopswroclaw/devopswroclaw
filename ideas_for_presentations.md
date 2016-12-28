@@ -5,6 +5,14 @@ Talks that can be prepared for the next meetup:
 - Advanced Mesos and Marathon: monitoring, load balancing, live demo – M.Ł.@Opera
 
 ####For future meetups####
+- Kubernetes for sysadmins – M.J.@SUSE
+- Orchestrating Docker containers by Kubernetes – M.J.@SUSE
+- Networking approaches in container world – M.J.@SUSE
+- DevOps - Innovation tools driving your CI/CD future – M.J.@SUSE
+- DevOps From a DevOps Manager's Perspective – M.J.@SUSE
+- From Git to Cloud: Vision for agile software development and deployment in the Software Defined Datacenter – M.J.@SUSE
+- Using Chef for deploying OpenStack – M.J.@SUSE
+- DevOps Monitoring: Alerting with sensu and puppet – T.T.@Gigaset
 - Ansible for SDN deployment: benefits and good practices - J.S.@OVH (under construction)
 - Measure everything, for Dev and Ops – TT@Gigaset
 - Microservices require DevOps – TT@Gigaset
