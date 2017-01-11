@@ -18,6 +18,16 @@ DevOps Materials
 
 Meetups
 -------
+#### [DevOps Wroclaw 2017-01-31](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/236526236/) ####
+Agenda:
+- 18:00 – Grab refreshments
+- 18:10 – Group updates/news/announcements
+- 18:30 – "Advanced Mesos and Marathon: monitoring, load balancing, live demo" by Michał Łowicki (Opera Software)
+- 19:15 –  “Monitoring as a Service: fault detection with sensu and puppet” by Tomasz Tarczyński (Gigaset)
+- 20:00 – Intro to Open Spaces
+- 20:10 – Pizza break
+- 20:40 – Open Space #1
+
 #### [DevOps Wroclaw 2016-11-29](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/235730817/) ####
 
 Agenda and slides:
