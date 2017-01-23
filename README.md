@@ -22,8 +22,8 @@ Meetups
 Agenda:
 - 18:00 – Grab a beer
 - 18:10 – Group updates/news/announcements
-- 18:30 – "DevOps in droplr" by Levi Nunnink CTO & Founder of [droplr.com](https://droplr.com)
-- 19:15 – "Architektura serwisów w chmurze - podstawy AWS" by Szymon Święcki
+- 18:30 – (draft title) "DevOps in droplr" by Levi Nunnink CTO & Founder of [droplr.com](https://droplr.com)
+- 19:15 – (draft title) "Cloud services' architecture - introduction to AWS" by Szymon Święcki
 - 20:00 – Intro to Open Spaces
 - 20:10 – Intermission
 - 20:40 – Open Space #1
