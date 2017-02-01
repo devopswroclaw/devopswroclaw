@@ -32,7 +32,12 @@ Agenda:
 Agenda:
 - 18:00 – Grab refreshments
 - 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/2017-01_Group_updates_news_announcements.pdf)
-- 18:30 – "Advanced Mesos and Marathon: monitoring, load balancing, live demo" by Michał Łowicki (Opera Software)
+- 18:30 – [Michał Łowicki - Advanced Mesos and Marathon: monitoring, load balancing, live demo](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/Michal_Lewicki_-_Advanced_Mesos_and_Marathon.pdf)
+
+> monitoring & incidents management
+> Jogging - load balancing based on Nginx and Nixy and how we ended up with proprietary LB solution
+> develop, debug & release Docker-based applications with an mgr tool
+
 - 19:15 – [Tomasz Tarczyński - Monitoring as a Service: fault detection with sensu and puppet](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/Tomasz_Tarczynski_-_Monitoring_as_a_Service.pdf)
 
 > How Gigaset evolved its monitoring to a “as a service” approach. Touches on infrastructure as code with puppet and fault detection with sensu.
