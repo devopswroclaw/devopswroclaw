@@ -33,7 +33,10 @@ Agenda:
 - 18:00 – Grab refreshments
 - 18:10 – Group updates/news/announcements
 - 18:30 – "Advanced Mesos and Marathon: monitoring, load balancing, live demo" by Michał Łowicki (Opera Software)
-- 19:15 – "Monitoring as a Service: fault detection with sensu and puppet" by Tomasz Tarczyński (Gigaset)
+- 19:15 – [Tomasz Tarczyński - Monitoring as a Service: fault detection with sensu and puppet](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/Tomasz_Tarczynski_-_Monitoring_as_a_Service.pdf)
+
+> How Gigaset evolved its monitoring to a “as a service” approach. Touches on infrastructure as code with puppet and fault detection with sensu.
+
 - 20:00 – Intro to Open Spaces
 - 20:10 – Pizza break
 - 20:40 – Open Space #1
