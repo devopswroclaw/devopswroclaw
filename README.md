@@ -31,7 +31,7 @@ Agenda:
 #### [DevOps Wroclaw 2017-01-31](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/236526236/) ####
 Agenda:
 - 18:00 – Grab refreshments
-- 18:10 – Group updates/news/announcements
+- 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/2017-01_Group_updates_news_announcements.pdf)
 - 18:30 – "Advanced Mesos and Marathon: monitoring, load balancing, live demo" by Michał Łowicki (Opera Software)
 - 19:15 – [Tomasz Tarczyński - Monitoring as a Service: fault detection with sensu and puppet](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/Tomasz_Tarczynski_-_Monitoring_as_a_Service.pdf)
 
