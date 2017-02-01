@@ -18,7 +18,7 @@ DevOps Materials
 
 Meetups
 -------
-#### DevOps Wroclaw 2017-02-28 ####
+#### [DevOps Wroclaw 2017-02-28](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/237316741/) ####
 Agenda:
 - 18:00 – Grab a beer
 - 18:10 – Group updates/news/announcements
@@ -31,9 +31,12 @@ Agenda:
 #### [DevOps Wroclaw 2017-01-31](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/236526236/) ####
 Agenda:
 - 18:00 – Grab refreshments
-- 18:10 – Group updates/news/announcements
+- 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/2017-01_Group_updates_news_announcements.pdf)
 - 18:30 – "Advanced Mesos and Marathon: monitoring, load balancing, live demo" by Michał Łowicki (Opera Software)
-- 19:15 – "Monitoring as a Service: fault detection with sensu and puppet" by Tomasz Tarczyński (Gigaset)
+- 19:15 – [Tomasz Tarczyński - Monitoring as a Service: fault detection with sensu and puppet](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-01-31/Tomasz_Tarczynski_-_Monitoring_as_a_Service.pdf)
+
+> How Gigaset evolved its monitoring to a “as a service” approach. Touches on infrastructure as code with puppet and fault detection with sensu.
+
 - 20:00 – Intro to Open Spaces
 - 20:10 – Pizza break
 - 20:40 – Open Space #1
