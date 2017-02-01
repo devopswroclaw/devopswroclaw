@@ -18,7 +18,7 @@ DevOps Materials
 
 Meetups
 -------
-#### DevOps Wroclaw 2017-02-28 ####
+#### [DevOps Wroclaw 2017-02-28](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/237316741/) ####
 Agenda:
 - 18:00 – Grab a beer
 - 18:10 – Group updates/news/announcements
