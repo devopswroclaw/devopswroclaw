@@ -1,7 +1,8 @@
 Proposed Talks
 ==============
 ####Confirmed####
-Talks that can be prepared for the next meetups:
+Talks that can be prepared for next meetups:
+
 2017-02-28
 - Prometheus 101: get on the hype train – Michał Bolek
 - Cloud services' architecture - introduction to AWS – Szymon Święcki
