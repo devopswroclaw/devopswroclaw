@@ -1,18 +1,25 @@
 Proposed Talks
 ==============
 ####Confirmed####
-Talks that can be prepared for the next meetup:
-- Advanced Mesos and Marathon: monitoring, load balancing, live demo – M.Ł.@Opera
+Talks that can be prepared for the next meetups:
+2017-02-28
+- Prometheus 101: get on the hype train – Michał Bolek
+- Cloud services' architecture - introduction to AWS – Szymon Święcki
+
+2017-03-28
+- DevOps in droplr – Levi Nunnink (droplr.com)
+- Kubernetes for sysadmins – Michał Jura (SUSE)
+
+2017-04-25
+- OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
 
 ####For future meetups####
-- Kubernetes for sysadmins – M.J.@SUSE
 - Orchestrating Docker containers by Kubernetes – M.J.@SUSE
 - Networking approaches in container world – M.J.@SUSE
 - DevOps - Innovation tools driving your CI/CD future – M.J.@SUSE
 - DevOps From a DevOps Manager's Perspective – M.J.@SUSE
 - From Git to Cloud: Vision for agile software development and deployment in the Software Defined Datacenter – M.J.@SUSE
 - Using Chef for deploying OpenStack – M.J.@SUSE
-- DevOps Monitoring: Alerting with sensu and puppet – T.T.@Gigaset
 - Ansible for SDN deployment: benefits and good practices - J.S.@OVH (under construction)
 - Measure everything, for Dev and Ops – TT@Gigaset
 - Microservices require DevOps – TT@Gigaset
@@ -31,6 +38,8 @@ Talks that can be prepared for the next meetup:
 - Introduction to Mesos and Marathon – M.Ł.@Opera
 - Linux, Docker and GitLabCI CI – Ł.H.@RST
 - systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration – M.L.@Ocado
+- Advanced Mesos and Marathon: monitoring, load balancing, live demo – M.Ł.@Opera
+- Monitoring as a Service: fault detection with sensu and puppet – T.T.@Gigaset
 
 Talks we would like to hear
 ===========================
