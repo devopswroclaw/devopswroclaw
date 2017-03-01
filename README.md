@@ -21,7 +21,7 @@ Meetups
 #### [DevOps Wroclaw 2017-02-28](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/237316741/) ####
 Agenda:
 - 18:00 – Grab a beer
-- 18:10 – Group updates/news/announcements
+- 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-02-28/2017-02_Group_updates_news_announcements.pdf)
 - 18:30 – "Prometheus 101: get on the hype train" by Michał Bolek
 - 19:15 – "Cloud services' architecture - introduction to AWS" by Szymon Święcki
 - 20:00 – Intro to Open Spaces
