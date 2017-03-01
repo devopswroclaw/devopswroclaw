@@ -22,8 +22,8 @@ Meetups
 Agenda:
 - 18:00 – Grab a beer
 - 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-02-28/2017-02_Group_updates_news_announcements.pdf)
-- 18:30 – "Prometheus 101: get on the hype train" by Michał Bolek
-- 19:15 – "Cloud services' architecture - introduction to AWS" by Szymon Święcki
+- 18:30 – Michał Bolek - Prometheus 101: get on the hype train
+- 19:15 – [Szymon Święcki - Cloud services' architecture - introduction to AWS](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-02-28/Szymon_Swiecki_-_Intro_into_AWS.pdf)
 - 20:00 – Intro to Open Spaces
 - 20:10 – Intermission
 - 20:40 – Open Space #1
