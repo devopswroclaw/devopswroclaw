@@ -34,7 +34,8 @@ DevOps Books
 
   [![Effective DevOps](http://images.amazon.com/images/P/B01GGQKXOE.01._SCLZ_.jpg)](https://www.amazon.com/gp/product/B01GGQKXOE)
 
-- [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/gp/product/B01DCPXKZ6, https://landing.google.com/sre/book.html)  
+- [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/gp/product/B01DCPXKZ6)
+  [Site Reliability Engineering](https://landing.google.com/sre/book.html)
   by Chris Jones, Jennifer Petoff, Betsy Beyer, Niall Richard Murphy  
   Publication Date: March 23, 2016  
   Publisher: O'Reilly Media
