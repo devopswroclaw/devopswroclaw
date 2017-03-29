@@ -22,7 +22,7 @@ Meetups
 Agenda:
 - 18:00 – Grab a beer
 - 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-03-28/2017-03_Group_updates_news_announcements.pdf)
-- 18:30 – [Antoni Orfin - DevOps in droplr]()
+- 18:30 – [Antoni Orfin - DevOps in droplr](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-03-28/Antoni_Orfin_-_devops_in_droplr.pdf)
 - 19:15 – [Michał Jura - Kubernetes as a Service for everyone]()
 - 20:00 – Intro to Open Spaces
 - 20:10 – Intermission
