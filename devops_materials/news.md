@@ -4,7 +4,7 @@ DevOps News
 ## Newsletters ##
 - [Devops Weekly](http://www.devopsweekly.com/) by [Gareth Rushgrove](https://twitter.com/garethr)
 - [Monitoring Weekly](http://weekly.monitoring.love/) by [Mike Julian](https://twitter.com/mike_julian) & [Jason Dixon](https://twitter.com/obfuscurity)
-- [SRE Weekly](https://sreweekly.com/) by [Lex Neva](Newsletters://sreweekly.com/bio/)
+- [SRE Weekly](https://sreweekly.com/) by [Lex Neva](https://sreweekly.com/bio/)
 
 ## Articles ##
 
