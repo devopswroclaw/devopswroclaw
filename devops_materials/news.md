@@ -1,6 +1,13 @@
 DevOps News
 ===========
 
+## Newsletters ##
+- [Devops Weekly](http://www.devopsweekly.com/) by [Gareth Rushgrove](https://twitter.com/garethr)
+- [Monitoring Weekly](http://weekly.monitoring.love/) by [Mike Julian](https://twitter.com/mike_julian) & [Jason Dixon](https://twitter.com/obfuscurity)
+- [SRE Weekly](https://sreweekly.com/) by [Lex Neva](Newsletters://sreweekly.com/bio/)
+
+## Articles ##
+
 - 2016-06-21 – Dawn Foster [@geekygirldawn](https://twitter.com/geekygirldawn)  
   [What is DevOps? Patrick Debois Explains](https://www.linux.com/blog/what-devops-patrick-debois-explains)
 
