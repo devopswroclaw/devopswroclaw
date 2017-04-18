@@ -3,16 +3,18 @@ Proposed Talks
 ####Confirmed####
 Talks that can be prepared for next meetups:
 
-2017-02-28
-- Prometheus 101: get on the hype train – Michał Bolek
-- Cloud services' architecture - introduction to AWS – Szymon Święcki
-
-2017-03-28
-- DevOps in droplr – Levi Nunnink (droplr.com)
-- Kubernetes for sysadmins – Michał Jura (SUSE)
-
 2017-04-25
 - OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
+
+2017-05-30
+- GitLab - more than a version control – Piotr Kurpik (Ocado)
+
+2017-06-27
+- ELK talk – Bartłomiej Marcinkowski (7N)
+
+Date not set
+- Openstack and Kubernetes deployment – Tomasz Paszkowski (Intel)
+- Test driven infrastructure with: CHEF, inspec – Marcin Wolny
 
 ####For future meetups####
 - Orchestrating Docker containers by Kubernetes – M.J.@SUSE
@@ -41,6 +43,10 @@ Talks that can be prepared for next meetups:
 - systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration – M.L.@Ocado
 - Advanced Mesos and Marathon: monitoring, load balancing, live demo – M.Ł.@Opera
 - Monitoring as a Service: fault detection with sensu and puppet – T.T.@Gigaset
+- Prometheus 101: get on the hype train – Michał Bolek
+- Cloud services' architecture - introduction to AWS – Szymon Święcki
+- DevOps in droplr – Levi Nunnink (droplr.com)
+- Kubernetes for sysadmins – Michał Jura (SUSE)
 
 Talks we would like to hear
 ===========================
