@@ -1,6 +1,8 @@
 Proposed Talks
 ==============
-####Confirmed####
+
+## Confirmed ##
+
 Talks that can be prepared for next meetups:
 
 2017-02-28
@@ -14,7 +16,8 @@ Talks that can be prepared for next meetups:
 2017-04-25
 - OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
 
-####For future meetups####
+## For future meetups ##
+
 - Orchestrating Docker containers by Kubernetes – M.J.@SUSE
 - Networking approaches in container world – M.J.@SUSE
 - DevOps - Innovation tools driving your CI/CD future – M.J.@SUSE
@@ -31,7 +34,7 @@ Talks that can be prepared for next meetups:
 - End2end testing microservices approach – JK@Gigaset
 - Ansible for SDN deployments: benefits and best practives – S.Ś.@OVH
 
-####Already presented####
+## Already presented ##
 - Chef for Windows automation – P.R.@IBM
 - DevOps tools deployed in cloud – P.K.@Ocado
 - From Monolith to uServices (working title) – D.A.@Gigaset
@@ -44,6 +47,7 @@ Talks that can be prepared for next meetups:
 
 Talks we would like to hear
 ===========================
+
 - Puppet vs Chef vs Ansible
 - Docker, Chef, Jenkins, AWS, Microservices
 - How not to introduce DevOps in an organization. (anti-patterns)
