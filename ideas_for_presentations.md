@@ -7,6 +7,7 @@ Talks that can be prepared for next meetups:
 
 2017-04-25
 - OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
+- Openstack and Kubernetes deployment – Tomasz Paszkowski (Intel)
 
 2017-05-30
 - GitLab - more than a version control – Piotr Kurpik (Ocado)
@@ -15,7 +16,6 @@ Talks that can be prepared for next meetups:
 - ELK talk – Bartłomiej Marcinkowski (7N)
 
 Date not set
-- Openstack and Kubernetes deployment – Tomasz Paszkowski (Intel)
 - Test driven infrastructure with: CHEF, inspec – Marcin Wolny
 
 ## For future meetups ##
