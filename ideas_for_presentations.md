@@ -7,7 +7,7 @@ Talks that can be prepared for next meetups:
 
 2017-04-25
 - OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
-- Openstack and Kubernetes deployment – Tomasz Paszkowski (Intel)
+- OpenStack & Kubernetes - how to combine the world of containers and virtual machines – Tomasz Paszkowski (Intel)
 
 2017-05-30
 - GitLab - more than a version control – Piotr Kurpik (Ocado)

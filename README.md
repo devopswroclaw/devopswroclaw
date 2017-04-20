@@ -18,6 +18,15 @@ DevOps Materials
 
 Meetups
 -------
+
+#### [DevOps Wroclaw 2017-04-25](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/239151592/) ####
+Agenda:
+- 18:30 – Grab a beer
+- 18:40 – Group updates/news/announcements
+- 19:00 – "OpenStack deployment with Kolla, Ansible and Ceph" – Krzysztof Dajka (Gigaset)
+- 20:00 – "OpenStack & Kubernetes - how to combine the world of containers and virtual machines" - Tomasz Paszkowski (Intel Corporation)
+- 21:00 – Open Space
+
 #### [DevOps Wroclaw 2017-03-28](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/238053925/) ####
 Agenda:
 - 18:00 – Grab a beer
