@@ -1,22 +1,28 @@
 Proposed Talks
 ==============
-####Confirmed####
+
+## Confirmed ##
+
 Talks that can be prepared for next meetups:
 
-2017-04-25
+**2017-04-25**
 - OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
+- OpenStack & Kubernetes - how to combine the world of containers and virtual machines – Tomasz Paszkowski (Intel)
 
-2017-05-30
+**2017-05-30**
 - GitLab - more than a version control – Piotr Kurpik (Ocado)
 
-2017-06-27
+**2017-06-27**
 - ELK talk – Bartłomiej Marcinkowski (7N)
 
-Date not set
-- Openstack and Kubernetes deployment – Tomasz Paszkowski (Intel)
+**2017-07**
+- Summer break
+
+**Date not set**
 - Test driven infrastructure with: CHEF, inspec – Marcin Wolny
 
-####For future meetups####
+## For future meetups ##
+
 - Orchestrating Docker containers by Kubernetes – M.J.@SUSE
 - Networking approaches in container world – M.J.@SUSE
 - DevOps - Innovation tools driving your CI/CD future – M.J.@SUSE
@@ -33,7 +39,7 @@ Date not set
 - End2end testing microservices approach – JK@Gigaset
 - Ansible for SDN deployments: benefits and best practives – S.Ś.@OVH
 
-####Already presented####
+## Already presented ##
 - Chef for Windows automation – P.R.@IBM
 - DevOps tools deployed in cloud – P.K.@Ocado
 - From Monolith to uServices (working title) – D.A.@Gigaset
@@ -50,6 +56,7 @@ Date not set
 
 Talks we would like to hear
 ===========================
+
 - Puppet vs Chef vs Ansible
 - Docker, Chef, Jenkins, AWS, Microservices
 - How not to introduce DevOps in an organization. (anti-patterns)
