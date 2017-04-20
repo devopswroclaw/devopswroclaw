@@ -11,6 +11,7 @@ Talks that can be prepared for next meetups:
 
 **2017-05-30**
 - GitLab - more than a version control – Piotr Kurpik (Ocado)
+- Test driven infrastructure with: CHEF, inspec – Marcin Wolny
 
 **2017-06-27**
 - ELK talk – Bartłomiej Marcinkowski (7N)
@@ -19,7 +20,6 @@ Talks that can be prepared for next meetups:
 - Summer break
 
 **Date not set**
-- Test driven infrastructure with: CHEF, inspec – Marcin Wolny
 
 ## For future meetups ##
 
