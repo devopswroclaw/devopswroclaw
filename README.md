@@ -33,7 +33,7 @@ Agenda:
 - 18:30 – Grab a beer
 - 18:40 – [Group updates/news/announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-04-25/2017-04_Group_updates_news_announcements.pdf)
 - 19:00 – [Krzysztof Dajka - OpenStack deployment with Kolla, Ansible and Ceph](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-04-25/Krzysztof_Dajka_-_OpenStack_deployment_with_Kolla_Ansible_and_Ceph.pdf)
-- 20:00 – "OpenStack & Kubernetes - how to combine the world of containers and virtual machines" - Tomasz Paszkowski (Intel Corporation)
+- 20:00 – [Tomasz Paszkowski - OpenStack & Kubernetes - how to combine the world of containers and virtual machines](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-04-25/Tomasz_Paszkowski_-_OpenStack_and_Kubernetes.pdf)
 - 21:00 – Open Space
 
 #### [DevOps Wroclaw 2017-03-28](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/238053925/) ####
