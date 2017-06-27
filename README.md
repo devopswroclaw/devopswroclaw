@@ -19,11 +19,17 @@ DevOps Materials
 Meetups
 -------
 
+#### [DevOps Wroclaw 2017-06-26](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/240715565/) ####
+Agenda:
+- 19:00 – Grab a beer
+- 19:10 – [Group updates/news/announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-06-26/2017-06_Group_updates_news_announcements.pdf)
+- 19:20 – [Bartłomiej Marcinkowski - ELK story](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-06-26/Bartlomiej_Marcinkowski_-_ELK_story.pdf)
+- 20:30 – Open Space
+
 #### [DevOps Wroclaw 2017-05-31](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/239481763/) ####
 Agenda:
 - 18:00 – Grab a beer
-- 18:10 - Group updates and announcements
-– [Group updates/news/announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-05-31/2017-05_Group_updates_news_announcements.pdf)
+- 18:10 – [Group updates/news/announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-05-31/2017-05_Group_updates_news_announcements.pdf)
 - 18:20 – [Nic Jackson - Live coding with AWS Lex, Slack and Terraform](https://nicholasjackson.io/2017/04/25/slack-bot-aws-lambda/)
 - 19:25 – [Piotr Kurpik - Building a Death Star A.K.A. GitLab in use](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-05-31/Piotr_Kurpik-Building_a_Death_Star-A.K.A.-GitLab_in_use.pdf)
 - 20:30 – Open Space
