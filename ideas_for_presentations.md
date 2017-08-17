@@ -5,6 +5,10 @@ Proposed Talks
 
 Talks that can be prepared for next meetups:
 
+**2017-09-26**
+- Test Driven Infrastructure with Chef - Marcin Wolny
+- Modern DevOps with Kubernetes - Michał Wronski
+
 **2017-04-25**
 - OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
 - OpenStack & Kubernetes - how to combine the world of containers and virtual machines – Tomasz Paszkowski (Intel)
