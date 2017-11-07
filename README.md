@@ -19,6 +19,17 @@ DevOps Materials
 Meetups
 -------
 
+#### [DevOps Wroclaw 2017-10-31](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/244114271/) ####
+Agenda:
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-10-31/2017-10_Group_updates_news_announcements.pdf)
+- [Konrad Rotkiewicz - Kubernetes from scratch](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-10-31/Konrad_Rotkiewicz_-_Kubernetes_from_scratch.pdf)
+- [Szymon Święcki - AWS Serverless implementation guide - API Gateway + Lambda](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-10-31/Szymon_Swiecki_-_AWS_Serverless_implementation_guide.pdf)
+
+#### [DevOps Wroclaw 2017-09-18](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/242760272/) ####
+Agenda:
+- [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-09-18/2017-09_Group_updates_news_announcements.pdf)
+- [Michał Wronski - Modern DevOps with Kubernetes](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2017-09-18/Michal_Wronski_-_Modern_DevOps_with_Kubernetes.pdf)
+
 #### [DevOps Wroclaw 2017-06-26](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/240715565/) ####
 Agenda:
 - 19:00 – Grab a beer
