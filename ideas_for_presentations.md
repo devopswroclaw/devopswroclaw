@@ -5,23 +5,7 @@ Proposed Talks
 
 Talks that can be prepared for next meetups:
 
-**2017-09-26**
-- Test Driven Infrastructure with Chef - Marcin Wolny
-- Modern DevOps with Kubernetes - Michał Wronski
-
-**2017-04-25**
-- OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
-- OpenStack & Kubernetes - how to combine the world of containers and virtual machines – Tomasz Paszkowski (Intel)
-
-**2017-05-30**
-- GitLab - more than a version control – Piotr Kurpik (Ocado)
-- Test driven infrastructure with: CHEF, inspec – Marcin Wolny
-
-**2017-06-27**
-- ELK talk – Bartłomiej Marcinkowski (7N)
-
-**2017-07**
-- Summer break
+**2017-11**
 
 **Date not set**
 
@@ -44,19 +28,27 @@ Talks that can be prepared for next meetups:
 - Ansible for SDN deployments: benefits and best practives – S.Ś.@OVH
 
 ## Already presented ##
-- Chef for Windows automation – P.R.@IBM
-- DevOps tools deployed in cloud – P.K.@Ocado
-- From Monolith to uServices (working title) – D.A.@Gigaset
-- DevOps security – B.Ł.
-- Introduction to Mesos and Marathon – M.Ł.@Opera
-- Linux, Docker and GitLabCI CI – Ł.H.@RST
-- systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration – M.L.@Ocado
-- Advanced Mesos and Marathon: monitoring, load balancing, live demo – M.Ł.@Opera
-- Monitoring as a Service: fault detection with sensu and puppet – T.T.@Gigaset
-- Prometheus 101: get on the hype train – Michał Bolek
-- Cloud services' architecture - introduction to AWS – Szymon Święcki
-- DevOps in droplr – Levi Nunnink (droplr.com)
-- Kubernetes for sysadmins – Michał Jura (SUSE)
+- 2016-06 : Chef for Windows automation – Piotr Rogala (IBM)
+- 2016-06 : DevOps tools deployed in cloud – Piotr Kurpik (Ocado)
+- 2016-08 : From Monolith to uServices (working title) – Damian Adamowicz (Gigaset)
+- 2016-08 : DevOps security – Borys Łącki
+- 2016-10 : Introduction to Mesos and Marathon – Michał Łowicki (Opera)
+- 2016-10 : Linux, Docker and GitLabCI CI – Łukasz Hryniuk (RST)
+- 2016-11 : systemd primer: bin, unit-files, nspawn, journald and sd-notify for systemd application integration – Maciej Lasyk (Ocado)
+- 2017-01 : Advanced Mesos and Marathon: monitoring, load balancing, live demo – Michał Łowicki (Opera)
+- 2017-01 : Monitoring as a Service: fault detection with sensu and puppet – Tomasz Tarczyński (Gigaset)
+- 2017-02 : Prometheus 101: get on the hype train – Michał Bolek
+- 2017-02 : Cloud services' architecture - introduction to AWS – Szymon Święcki
+- 2017-03 : DevOps in droplr – Levi Nunnink (droplr.com)
+- 2017-03 : Kubernetes for sysadmins – Michał Jura (SUSE)
+- 2017-04 : OpenStack deployment with Kolla, Ansible and Ceph – Krzysztof Dajka (Gigaset)
+- 2017-04 : OpenStack & Kubernetes - how to combine the world of containers and virtual machines – Tomasz Paszkowski (Intel)
+- 2017-05 : GitLab - more than a version control – Piotr Kurpik (Ocado)
+- 2017-05 : Live coding with AWS Lex, Slack and Terraform – Nic Jackson (HashiCorp)
+- 2017-06 : ELK talk – Bartłomiej Marcinkowski (7N)
+- 2017-09 : Modern DevOps with Kubernetes – Michał Wronski
+- 2017-10 : Kubernetes from scratch – Konrad Rotkiewicz (Ulam Labs)
+- 2017-10 : AWS Serverless implementation guide – Szymon Święcki (SecurionPay)
 
 Talks we would like to hear
 ===========================
