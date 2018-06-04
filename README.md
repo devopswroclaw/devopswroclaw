@@ -16,8 +16,27 @@ DevOps Materials
 - [Podcasts](/devops_materials/podcasts.md)
 - [Presentations](/devops_materials/presentations.md)
 
+Workshops
+-------
+
+#### ["Kubernetes 101" at GeekWeekWro 2018-04-11] ####
+The workshop, hosted by [Tomasz Tarczynski](https://twitter.com/ttarczynski) and Kasia Wojciechowska, covered the Kubernetes basics. The materials may be taken from [kubernetes-101-workshop](https://github.com/ttarczynski/kubernetes-101-workshop)
+
 Meetups
 -------
+
+#### [DevOps Wroclaw 2018-04-18](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/248543205/) ####
+- 18:00 – Grab a beer and take a seat
+- 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-04-18/2018-04_Group_updates_news_announcements.pdf)
+- 18:15 – Dmitry Kudelko - Advanced Prometheus
+- 19:00 – Mateusz Koszutowski - DevOps Success Stories
+- 20:00 – Break and mingle time
+
+#### [DevOps Wroclaw 2018-01-30](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/246122329/) ####
+- 18:10 - Grab a beer and take a seat
+- 18:15 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-01-30/2018-01_Group_updates_news_announcements.pdf)
+- 18:25 - [Michał Łowicki and Piotr Śliwka - Introduction to Vault](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-01-30/Michal_Lowicki_and_Piotr_Sliwka_-_Introduction_to_Vault.pdf)
+- 19:25 - Break and small talk time
 
 #### [DevOps Wroclaw 2017-10-31](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/244114271/) ####
 - 18:00 – Grab refreshments
