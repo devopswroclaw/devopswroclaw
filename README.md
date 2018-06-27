@@ -25,6 +25,12 @@ The workshop, hosted by [Tomasz Tarczynski](https://twitter.com/ttarczynski) and
 Meetups
 -------
 
+#### [DevOps Wroclaw 2018-06-26](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/251437211/) ####
+- 18:20 - Social
+- 18:30 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/2018-06_Group_updates_news_announcements.pdf)
+- 18:40 - Tomasz Ziółkowski - Reverse proxy automation - Varnish as a Service
+- 19:40 - [Tomasz Tarczyński - Evolution of the IoT backend platform. From a monolith to microservices and toward cloud native infrastructure](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/Tomasz_Tarczynski_-_Evolution_of_the_IoT_backend_platform.pdf)
+
 #### [DevOps Wroclaw 2018-04-18](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/248543205/) ####
 - 18:00 – Grab a beer and take a seat
 - 18:10 – [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-04-18/2018-04_Group_updates_news_announcements.pdf)
