@@ -3,5 +3,5 @@ DevOps Jobs
 
 In this place you will find some new job opportunities related to the DevOps area of interests.
 
-- Now This : [Infrastructure Hero](/devops_jobs/nowthis.md)
-- Monterail : [DevOps Engineer](https://monterail.com/careers/devops-engineer-wroclaw/)
+- Ocado Technology: [Site Reliability Engineer, Wrocław and Kraków](/devops_jobs/ocado-sre.md)
+- Ocado Technology: [Cloud Services Engineer, Wrocław](/devops_jobs/ocado-cloud.md)
