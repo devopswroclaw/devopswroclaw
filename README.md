@@ -25,6 +25,13 @@ The workshop, hosted by [Tomasz Tarczynski](https://twitter.com/ttarczynski) and
 Meetups
 -------
 
+#### [DevOps Wroclaw 2018-09-25]() ####
+- 18:00 – Grab a beer and take a seat
+- 18:10 – Intro
+- 18:15 – [Thomas Witt - Backstage report: Keeping a production SaaS environment running on AWS]()
+- 19:15 – Place for your DevOps talk
+- 20:00 – Pizza and mingle time
+
 #### [DevOps Wroclaw 2018-06-26](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/251437211/) ####
 - 18:20 - Social
 - 18:30 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/2018-06_Group_updates_news_announcements.pdf)
