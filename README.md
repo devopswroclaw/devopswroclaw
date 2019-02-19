@@ -34,8 +34,8 @@ Meetups
 #### [DevOps Wroclaw 2018-11-27](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/255394680/) ####
 - 18:00 - Social
 - 18:10 - Group updates / news / announcements
-- 18:15 - Jan Rotter - Rule the AWS with Sceptre
-- 19:15 - Wojciech Barczyński  - Effective Kubernetes: Zero-downtime deployment strategies for your microservice to not drop a single request
+- 18:15 - [Jan Rotter - Rule the AWS with Sceptre](https://github.com/janrotter/sceptre_devops_meetup)
+- 19:15 - [Wojciech Barczyński  - Effective Kubernetes: Zero-downtime deployment strategies for your microservice to not drop a single request](https://www.slideshare.net/WojciechBarczyski/zero-downtime-deployment-of-microservices-with-kubernetes)
 
 #### [DevOps Wroclaw 2018-09-25](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/254267823/) ####
 - 18:00 - Social
