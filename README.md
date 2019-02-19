@@ -27,9 +27,9 @@ Meetups
 
 #### [DevOps Wroclaw 2019-02-12](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/257705206/) ####
 - 18:15 - Social
-- 18:25 - Group updates / news / announcements
-- 18:30 - Miłosz Tyborowski - CI with Gerrit and Jenkins in a way you would never imagine!
-- 19:30 - Michał Wcisło - K8s as a Service with Rancher
+- 18:25 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/2019-02_Group_updates_news_announcements.pdf)
+- 18:30 - [Miłosz Tyborowski - CI with Gerrit and Jenkins in a way you would never imagine!](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/Milosz_Tyborowski_-_CI_with_Gerrit_and_Jenkins_in_a_way_you_would_never_imagine.pdf)
+- 19:30 - [Michał Wcisło - K8s as a Service with Rancher](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/Michal_Wcislo_-_K8s_as_a_Service_with_Rancher.pdf)
 
 #### [DevOps Wroclaw 2018-11-27](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/255394680/) ####
 - 18:00 - Social
