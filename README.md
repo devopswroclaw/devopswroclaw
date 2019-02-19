@@ -25,6 +25,23 @@ The workshop, hosted by [Tomasz Tarczynski](https://twitter.com/ttarczynski) and
 Meetups
 -------
 
+#### [DevOps Wroclaw 2019-02-12](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/257705206/) ####
+- 18:15 - Social
+- 18:25 - Group updates / news / announcements
+- 18:30 - Miłosz Tyborowski - CI with Gerrit and Jenkins in a way you would never imagine!
+- 19:30 - Michał Wcisło - K8s as a Service with Rancher
+
+#### [DevOps Wroclaw 2018-11-27](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/255394680/) ####
+- 18:00 - Social
+- 18:10 - Group updates / news / announcements
+- 18:15 - Jan Rotter - Rule the AWS with Sceptre
+- 19:15 - Wojciech Barczyński  - Effective Kubernetes: Zero-downtime deployment strategies for your microservice to not drop a single request
+
+#### [DevOps Wroclaw 2018-09-25](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/254267823/) ####
+- 18:00 - Social
+- 18:10 - Group updates / news / announcements
+- 18:15 - Thomas Witt - Backstage report: Keeping a production SaaS environment running on AWS
+
 #### [DevOps Wroclaw 2018-06-26](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/251437211/) ####
 - 18:20 - Social
 - 18:30 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/2018-06_Group_updates_news_announcements.pdf)
