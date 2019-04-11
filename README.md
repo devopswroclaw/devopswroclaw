@@ -25,6 +25,12 @@ The workshop, hosted by [Tomasz Tarczynski](https://twitter.com/ttarczynski) and
 Meetups
 -------
 
+#### [DevOps Wroclaw 2019-04-09](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/260047105/) ####
+- 18:10 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/2019-04_Group_updates_news_announcements.pdf)
+- 18:15 - [Piotr Kłoskowski - Istio Service Mesh - when and why you should use it in your Kubernetes solution](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/Piotr_Kloskowski_-_Istio_Service_Mesh.pdf)
+- 19:15 - [Błażej Kwasniak - Knative - new hero in serverless world](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/Blazej_Kwasniak_-_Knative.pdf)
+
+
 #### [DevOps Wroclaw 2019-02-12](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/257705206/) ####
 - 18:15 - Social
 - 18:25 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-02-12/2019-02_Group_updates_news_announcements.pdf)
