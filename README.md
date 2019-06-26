@@ -25,6 +25,11 @@ The workshop, hosted by [Tomasz Tarczyński](https://twitter.com/ttarczynski) an
 Meetups
 -------
 
+#### [DevOps Wroclaw 2019-06-25](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/261998216/) ####
+- 18:10 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/2019-06_Group_updates_news_announcements.pdf)
+- 18:15 - [Paweł Gronkiewicz - DevOps Engineer - what does it really mean](https://github.com/devopswroclaw/presentations/blob/master/slides/devopswroclaw_2019-06-25/Pawel_Gronkiewicz-DevOps_Engineer.pdf)
+- 19:00 - Tomasz Tarczyński - Kubernetes Config Management: Helm + GitOps
+
 #### [DevOps Wroclaw 2019-04-09](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/260047105/) ####
 - 18:10 - [Group updates / news / announcements](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/2019-04_Group_updates_news_announcements.pdf)
 - 18:15 - [Piotr Kłoskowski - Istio Service Mesh - when and why you should use it in your Kubernetes solution](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-04-09/Piotr_Kloskowski_-_Istio_Service_Mesh.pdf)
